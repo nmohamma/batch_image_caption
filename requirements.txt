@@ -64,7 +64,7 @@ toolz==0.12.1
 torch==2.13.0
 torchaudio==2.2.0+cu118
 torchvision==0.17.0
-tornado==6.4
+tornado==6.5.9
 tqdm==4.66.2
 transformers==4.37.2
 typing_extensions==4.9.0
