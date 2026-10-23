@@ -37,7 +37,7 @@ optax==0.1.9
 orbax-checkpoint==0.5.3
 packaging==23.2
 pandas==2.2.0
-pillow==12.3.0
+pillow==13.0.0
 protobuf==5.29.6
 pyarrow==23.0.1
 pydeck==0.8.1b0
